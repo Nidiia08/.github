@@ -16,6 +16,9 @@ Información de los Autores:
 Henry Fabian Guillen Villacorte:
 Soy Henry Guillen, desarrollador de software con enfoque en backend e inteligencia artificial. Trabajo principalmente con Python, Java y PostgreSQL, y me interesa diseñar soluciones escalables, eficientes y basadas en datos.
 
+Nidia Jael Muñoz Oviedo:
+Estudiante y entusiasta del desarrollo de software, con conocimientos básicos en Python, JavaScript, TypeScript y PostgreSQL. Me interesa seguir aprendiendo y fortaleciendo mis habilidades en programación y tecnología a través de proyectos prácticos.
+
 Descripcion del problema:
 Actualmente, los estudiantes de pregrado enfrentan dificultades para acceder a herramientas integrales, accesibles y cómodas que les permitan prepararse de manera efectiva para el examen Saber Pro, requisito indispensable para la graduación en las instituciones de educación superior. La oferta existente suele ser dispersa, poco personalizada o de difícil acceso, lo que limita una preparación académica estructurada y acorde a las necesidades reales de los estudiantes.
 
